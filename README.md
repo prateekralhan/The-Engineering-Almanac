@@ -55,6 +55,8 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [Galileo - Survey of Hallucinations in LLMs](https://galileo.ai/blog/survey-of-hallucinations-in-multimodal-models)
 - [When not to use Vector DB](https://towardsdatascience.com/when-not-to-use-vector-db/)
 - [LLMs can get "Brain Rot"](https://llm-brain-rot.github.io/)
+- [OpenClaw Architecture](https://theagentstack.substack.com/p/openclaw-architecture-part-1-control)
+- [How prompt caching works - deep dive](https://sankalp.bearblog.dev/how-prompt-caching-works/)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
@@ -71,6 +73,8 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [StringZilla - Accelerating strings in SWE](https://github.com/ashvardanian/StringZilla)
 - [Omnilingual ASR: Open-Source Multilingual Speech Recognition for 1600+ Languages](https://github.com/facebookresearch/omnilingual-asr#installation)
 - [orjson - 10x faster JSON parsing in Python](https://github.com/ijl/orjson)
+- [Summarize - Fast summaries from URLs, files, and media](https://github.com/steipete/summarize?tab=readme-ov-file#0110-preview-highlights-most-interesting-first)
+- [OpenDetect - Object Detection for production Python apps](https://github.com/saifkhichi96/opendetect)
 
 ## 🗄 Databases & Storage
 - [JOIN Algorithms - Internals](https://arpitbhayani.me/blogs/join-algorithms/)
