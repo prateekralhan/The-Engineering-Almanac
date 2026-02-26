@@ -15,10 +15,21 @@ This repository is my curated collection of production-grade engineering wisdom 
 
 
 ## 📦 AI in Production
-
+- [Transformers from scratch using Pytorch](https://medium.com/@bavalpreetsinghh/transformer-from-scratch-using-pytorch-28a5d1b2e033)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Chunkviz](https://chunkviz.up.railway.app/)
+- [Primers - RAG](https://aman.ai/primers/ai/RAG/#overview)
+- [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+- [SWE agent](https://github.com/SWE-agent/SWE-agent)
+- [Full stack retrieval](https://github.com/FullStackRetrieval-com/RetrievalTutorials/tree/main)
+- [LLMs - Optimizing Latency](https://hamel.dev/notes/llm/inference/inference.html)
+- [AdalFlow - Build and auto-optimize LM workflows](https://github.com/SylphAI-Inc/AdalFlow)
 
 ## ⚙️ System Design & Distributed Systems
-
+- [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
+- [Machine Translation at Production Scale](https://research.google/blog/a-neural-network-for-machine-translation-at-production-scale/)
+- [Semantic Segment Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything?tab=readme-ov-file)
+- [VizTracer - Logging in Python](https://github.com/gaogaotiantian/viztracer)
 
 ## 🗄 Databases & Storage
 
