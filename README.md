@@ -30,3 +30,20 @@ This repository is my curated collection of production-grade engineering wisdom 
 
 
 ## 🧠 Engineering Philosophy
+
+
+----------
+
+## Contributions
+
+This is primarily a personal knowledge base.
+
+If you'd like to suggest additions, feel free to open a PR.
+
+## What qualifies for inclusion?
+
+- Production-oriented
+- Systems-level thinking
+- Practical > theoretical
+- Long-term relevant
+- No hype content
