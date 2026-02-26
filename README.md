@@ -80,15 +80,6 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [JOIN Algorithms - Internals](https://arpitbhayani.me/blogs/join-algorithms/)
 
 
-## 📊 Data Engineering
-
-
-## 🧪 Reliability & Observability
-
-
-## 🧠 Engineering Philosophy
-
-
 ----------
 
 ## Contributions
