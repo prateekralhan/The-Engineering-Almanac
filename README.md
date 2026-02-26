@@ -1,5 +1,13 @@
-# The-Engineering-Almanac
+<div align="center">
+
+# 📑The Engineering Almanac [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 Curated resources on building production-grade AI systems, databases, and scalable software.
+
+<kbd>
+<img width="1068" height="801" alt="image" src="https://user-images.githubusercontent.com/29462447/107814419-db336580-6d97-11eb-8b50-bad5441ceb6f.png" />
+</kbd>
+
+</div>
 
 ## Why this repo?
 
