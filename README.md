@@ -24,6 +24,7 @@ This repository is my curated collection of production-grade engineering wisdom 
 
 ## 📦 AI in Production
 - [Transformers from scratch using Pytorch](https://medium.com/@bavalpreetsinghh/transformer-from-scratch-using-pytorch-28a5d1b2e033)
+- [Transformers visualized](https://bbycroft.net/llm?mcp_token=eyJwaWQiOjQxODgyMjIsInNpZCI6MTMwNzY5ODgwLCJheCI6Ijk2YjBjNzUwMzQ3MDc1YmYzNTRiZDYxYmNjMWM5MTAwIiwidHMiOjE3NzE3MTQ0NzYsImV4cCI6MTc3NDEzMzY3Nn0.bxy3ykqMj1vzdjvlcI3v15t1A8i47CAdvIpLYnHCipA)
 - [Understanding LLMs using Middle School Maths](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Chunkviz](https://chunkviz.up.railway.app/)
