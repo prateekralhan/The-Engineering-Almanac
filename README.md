@@ -23,6 +23,10 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 - [RAG Implementations - a guide](https://newsletter.armand.so/p/comprehensive-guide-rag-implementations)
 - [Context Engineering Series for Agentic RAG](https://jxnl.co/writing/2025/08/28/context-engineering-index/)
+- [Maxpool - Agentic Engineering - Research Papers](https://maxpool.dev/research-papers/)
+- [Maxpool - Agentic Reliability](https://maxpool.dev/agent/)
+- [Maxpool -Vector DBs Engineering](https://maxpool.dev/agent-architecture/vector-db/)
+- [Maxpool - Agentic Frameworks](https://maxpool.dev/frameworks/)
 - [SWE agent](https://github.com/SWE-agent/SWE-agent)
 - [M - Agentic UI](https://github.com/microsoft/magentic-ui?tab=readme-ov-file#prerequisites)
 - [Full stack retrieval](https://github.com/FullStackRetrieval-com/RetrievalTutorials/tree/main)
@@ -38,6 +42,7 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [FastVLM - Efficient Vision Encoding for Vision LMs](https://github.com/apple/ml-fastvlm)
 - [CL4R1T4S - Full extracted system prompts, guidelines, and tools from all LLM providers](https://github.com/elder-plinius/CL4R1T4S)
 - [GPT5 Prompting Guide - OpenAI](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
+- [How Parlant Guarantees AI Agent Compliance](https://www.parlant.io/blog/how-parlant-guarantees-compliance/)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
