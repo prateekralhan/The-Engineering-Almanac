@@ -22,7 +22,9 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [Primers - RAG](https://aman.ai/primers/ai/RAG/#overview)
 - [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 - [RAG Implementations - a guide](https://newsletter.armand.so/p/comprehensive-guide-rag-implementations)
+- [Context Engineering Series for Agentic RAG](https://jxnl.co/writing/2025/08/28/context-engineering-index/)
 - [SWE agent](https://github.com/SWE-agent/SWE-agent)
+- [M - Agentic UI](https://github.com/microsoft/magentic-ui?tab=readme-ov-file#prerequisites)
 - [Full stack retrieval](https://github.com/FullStackRetrieval-com/RetrievalTutorials/tree/main)
 - [LLMs - Optimizing Latency](https://hamel.dev/notes/llm/inference/inference.html)
 - [AdalFlow - Build and auto-optimize LM workflows](https://github.com/SylphAI-Inc/AdalFlow)
@@ -30,6 +32,12 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [SECTOR - Semantic Extractor and Comparator](https://github.com/srivatsan88/sector)
 - [AIBrix - Scalable GenAI Inference Infrastructure](https://github.com/vllm-project/aibrix)
 - [What is MCP?](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/)
+- [MCP - Python SDK](https://github.com/modelcontextprotocol/python-sdk)
+- [MCP - Security Threats](https://arxiv.org/pdf/2503.23278)
+- [LangGraph Whatsapp Agent](https://github.com/lgesuellip/langgraph-whatsapp-agent)
+- [FastVLM - Efficient Vision Encoding for Vision LMs](https://github.com/apple/ml-fastvlm)
+- [CL4R1T4S - Full extracted system prompts, guidelines, and tools from all LLM providers](https://github.com/elder-plinius/CL4R1T4S)
+- [GPT5 Prompting Guide - OpenAI](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
@@ -41,6 +49,8 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [Nanotron Ultrascale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
 - [olmOCR 2](https://github.com/allenai/olmocr)
 - [FastRTC - Realtime communication for python](https://github.com/gradio-app/fastrtc)
+- [RapidTableDetection](https://github.com/RapidAI/RapidTableDetection?tab=readme-ov-file)
+- [WhisperLiveKit - Ultra-low-latency, self-hosted speech-to-text with speaker identification](https://github.com/QuentinFuxa/WhisperLiveKit)
 
 ## 🗄 Databases & Storage
 - [JOIN Algorithms - Internals](https://arpitbhayani.me/blogs/join-algorithms/)
