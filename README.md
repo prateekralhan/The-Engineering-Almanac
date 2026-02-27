@@ -66,6 +66,8 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [LLMs can get "Brain Rot"](https://llm-brain-rot.github.io/)
 - [OpenClaw Architecture](https://theagentstack.substack.com/p/openclaw-architecture-part-1-control)
 - [How prompt caching works - deep dive](https://sankalp.bearblog.dev/how-prompt-caching-works/)
+- [OpenClaw](https://github.com/openclaw/openclaw)
+- [OpenCode](https://github.com/anomalyco/opencode)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
