@@ -68,6 +68,7 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [How prompt caching works - deep dive](https://sankalp.bearblog.dev/how-prompt-caching-works/)
 - [OpenClaw](https://github.com/openclaw/openclaw)
 - [OpenCode](https://github.com/anomalyco/opencode)
+- [LLMFit](https://github.com/AlexsJones/llmfit?tab=readme-ov-file)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
