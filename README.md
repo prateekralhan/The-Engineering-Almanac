@@ -69,6 +69,9 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [OpenClaw](https://github.com/openclaw/openclaw)
 - [OpenCode](https://github.com/anomalyco/opencode)
 - [LLMFit](https://github.com/AlexsJones/llmfit?tab=readme-ov-file)
+- [Openfang - Agent OS](https://github.com/RightNow-AI/openfang)
+- [Bullshit bench](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file)
+- [SmolVM - Secure runtime for AI agents and tools](github.com/CelestoAI/SmolVM)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
