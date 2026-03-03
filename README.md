@@ -72,6 +72,7 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [Openfang - Agent OS](https://github.com/RightNow-AI/openfang)
 - [Bullshit bench](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file)
 - [SmolVM - Secure runtime for AI agents and tools](github.com/CelestoAI/SmolVM)
+- [StepTronOSS - Training framework for LLMs](https://github.com/stepfun-ai/SteptronOss)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
@@ -92,7 +93,19 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [OpenDetect - Object Detection for production Python apps](https://github.com/saifkhichi96/opendetect)
 
 ## 🗄 Databases & Storage
+- [Awesome DB Design](https://github.com/sujeet-agrahari/awesome-database-design)
 - [JOIN Algorithms - Internals](https://arpitbhayani.me/blogs/join-algorithms/)
+- [A guide to Databases - System Design](https://medium.com/%40sharmaadityaf723/a-guide-to-databases-system-design-b15de09b04cd)
+- [Designing robust and scalabale RDBMS](https://dev.to/pedrohgoncalves/designing-robust-and-scalable-relational-databases-a-series-of-best-practices-1i20)
+- [DB Design Best Practices that Actually Matter](https://www.boundev.com/blog/database-design-best-practices)
+- [9 Critical Database Design Best Practices](https://www.42coffeecups.com/blog/database-design-best-practices)
+- [Shared-nothing architecture](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
+- [Schema Migration](https://en.wikipedia.org/wiki/Schema_migration)
+- [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [Database architecture explained: From Storage Engines to Distributed Systems](https://msezer.dev/articles/database-architecture-storage-engines-distributed-systems)
+- [Distributed Databases - concepts](https://medium.com/understanding-distributed-databases-scalability)
+- [Azure - Storage architecture design](https://learn.microsoft.com/en-us/azure/architecture/guide/storage/storage-start-here)
+- [AWS architecture - Storage](https://aws.amazon.com/blogs/architecture/category/storage)
 
 
 ----------
