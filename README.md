@@ -73,6 +73,7 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [Bullshit bench](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file)
 - [SmolVM - Secure runtime for AI agents and tools](github.com/CelestoAI/SmolVM)
 - [StepTronOSS - Training framework for LLMs](https://github.com/stepfun-ai/SteptronOss)
+- [Agentic Engineering Guide](https://agents.siddhantkhare.com/)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
