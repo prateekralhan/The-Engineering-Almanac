@@ -74,6 +74,7 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [SmolVM - Secure runtime for AI agents and tools](github.com/CelestoAI/SmolVM)
 - [StepTronOSS - Training framework for LLMs](https://github.com/stepfun-ai/SteptronOss)
 - [Agentic Engineering Guide](https://agents.siddhantkhare.com/)
+- [Master AI Evals for Production](https://galileo.ai/eval-engineering-book)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
