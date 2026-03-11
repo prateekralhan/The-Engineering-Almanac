@@ -75,6 +75,7 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [StepTronOSS - Training framework for LLMs](https://github.com/stepfun-ai/SteptronOss)
 - [Agentic Engineering Guide](https://agents.siddhantkhare.com/)
 - [Master AI Evals for Production](https://galileo.ai/eval-engineering-book)
+- [The Context Window has a Physics](https://conikeec.substack.com/p/the-context-window-has-a-physics)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
