@@ -94,6 +94,7 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [orjson - 10x faster JSON parsing in Python](https://github.com/ijl/orjson)
 - [Summarize - Fast summaries from URLs, files, and media](https://github.com/steipete/summarize?tab=readme-ov-file#0110-preview-highlights-most-interesting-first)
 - [OpenDetect - Object Detection for production Python apps](https://github.com/saifkhichi96/opendetect)
+- [Coroutine-based concurrency library for Python](https://github.com/gevent/gevent)
 
 ## 🗄 Databases & Storage
 - [Awesome DB Design](https://github.com/sujeet-agrahari/awesome-database-design)
