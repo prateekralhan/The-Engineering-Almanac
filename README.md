@@ -4,7 +4,7 @@
 Curated resources on building production-grade AI systems, databases, and scalable software.
 
 <kbd>
-<img width="1068" height="801" alt="image" src="https://user-images.githubusercontent.com/29462447/107814419-db336580-6d97-11eb-8b50-bad5441ceb6f.png" />
+<img width="auto" height="auto" alt="image" src="https://user-images.githubusercontent.com/29462447/107814419-db336580-6d97-11eb-8b50-bad5441ceb6f.png" />
 </kbd>
 
 </div>
@@ -76,6 +76,9 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [Agentic Engineering Guide](https://agents.siddhantkhare.com/)
 - [Master AI Evals for Production](https://galileo.ai/eval-engineering-book)
 - [The Context Window has a Physics](https://conikeec.substack.com/p/the-context-window-has-a-physics)
+- [In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c)
+- [Modelling LLM Performance from First Principles](https://sidbabu.com/posts/llm-perf-modeling)
+- [How to Backpropagate Your Way to Agents: A Roadmap](https://nkapila.me/posts/backprop-agents)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
