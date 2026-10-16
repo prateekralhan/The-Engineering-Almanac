@@ -79,6 +79,10 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c)
 - [Modelling LLM Performance from First Principles](https://sidbabu.com/posts/llm-perf-modeling)
 - [How to Backpropagate Your Way to Agents: A Roadmap](https://nkapila.me/posts/backprop-agents)
+- [LLM-as-Jev: LLMs Are Already Jev-Style Decision Models -- When and How to Fine-Tune Them](https://arxiv.org/abs/2610.02076v2)
+- [The Semantic Routing Moment](https://www.liuxunzhuo.com/semantic-routing/)
+- [Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces](https://arxiv.org/pdf/2608.12585)
+- [Language model harnesses are compositional generalizers](https://alexzhang13.github.io/blog/2026/harness/)
 
 ## ⚙️ System Design & Distributed Systems
 - [GPU Optimization Workshop](https://github.com/mlops-discord/gpu-optimization-workshop?tab=readme-ov-file)
@@ -98,6 +102,7 @@ This repository is my curated collection of production-grade engineering wisdom 
 - [Summarize - Fast summaries from URLs, files, and media](https://github.com/steipete/summarize?tab=readme-ov-file#0110-preview-highlights-most-interesting-first)
 - [OpenDetect - Object Detection for production Python apps](https://github.com/saifkhichi96/opendetect)
 - [Coroutine-based concurrency library for Python](https://github.com/gevent/gevent)
+- [How to effectively debug when you no longer understand the code](https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b)
 
 ## 🗄 Databases & Storage
 - [Awesome DB Design](https://github.com/sujeet-agrahari/awesome-database-design)
